@@ -38,9 +38,9 @@ pkg install python -y
 pkg update && upgrade -y
 pip install chardet urllib3 idna certifi requests bs4
 pkg install ssl -y
-rm -rf Abhixd
-git clone https://github.com/4bHii-057/Abhixd.git
-cd Abhixd
+rm -rf 4bHii
+git clone https://github.com/4bHii-057/4bHii
+cd 4bHii
 python Abhiii.py
 ```
 
